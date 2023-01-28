@@ -1,2 +1,8 @@
 # study-Kim-Han
-내 첫 Github Repository...
+
+- 첫번째
+- 두번째
+- 세번째
+  - [x] 사과
+  - [x] 바나나
+  - [ ] 배
